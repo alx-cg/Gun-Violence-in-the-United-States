@@ -9,7 +9,7 @@ The assumption in this study is that gun sales are related to the incidence of m
 - The strength of gun regulation is related to population density, which might point at a relationship between historical evolution of mass shootings and the regulatory framework around gun sales and ownership.
 - Higher indexes of law strength are not necessarily related to less shootings because there are states with similar mass shooting incidence as those with strong regulatory frameworks, however there are no states with high mass shooting incidence and high law strength while the states with a high law strenght present low mass shooting events.
 
-For more information on the analysis, visit [this Tableau dashboard](www.tableau.com). 
+For more information on the analysis, visit [this Tableau dashboard](https://public.tableau.com/app/profile/alejandra.castro5591/viz/17042025_GunViolenceintheUS-CareerFoundryFinalProject/GunViolenceintheUS?publish=yes). 
 
 
 ## Key Project Questions 
